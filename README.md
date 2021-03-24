@@ -1,6 +1,6 @@
 # projeto-css-avancado
 
-Projeto em CSS avançado
+Projeto em CSS com SASS
 
 - :package: nova funcionalidade
 - :up: atualização
