@@ -5,8 +5,8 @@
 		"sass/style.scss"
 	],
 	"sourcesContent": [
-		"$preto: #999;\r\n\r\ndiv {\r\n  background: $preto;\r\n  height: 200px;\r\n  width: 200px;\r\n}\r\n\r\na {\r\n  color: pink;\r\n  background: blue;\r\n}\r\n"
+		"@import \"colors.css\";\r\n\r\n$preto: #999;\r\n\r\ndiv {\r\n  background: $preto;\r\n  height: 200px;\r\n  width: 100px;\r\n}\r\n\r\na {\r\n  color: pink;\r\n  background: blue;\r\n}\r\n"
 	],
 	"names": [],
-	"mappings": ";AAEA,AAAA,GAAG,CAAC;EACF,UAAU,EAHJ,IAAI;EAIV,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,KAAK;CACb;;;AAED,AAAA,CAAC,CAAC;EACA,KAAK,EAAE,IAAI;EACX,UAAU,EAAE,IAAI;CACjB"
+	"mappings": "AAAA,OAAO,CAAP,eAAO;;AAIP,AAAA,GAAG,CAAC;EACF,UAAU,EAHJ,IAAI;EAIV,MAAM,EAAE,KAAK;EACb,KAAK,EAAE,KAAK;CACb;;;AAED,AAAA,CAAC,CAAC;EACA,KAAK,EAAE,IAAI;EACX,UAAU,EAAE,IAAI;CACjB"
 }
